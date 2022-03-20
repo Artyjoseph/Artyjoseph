@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Artyjoseph
-- 👀 I’m interested in developing applications.
 - 🌱 I’m currently learning Javascript, Vue.js, HTML, and CSS.
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: Linkedin - Arthur Kanishov
 
 <!---
